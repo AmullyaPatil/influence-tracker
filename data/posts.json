@@ -38,11 +38,63 @@
       "trends": "influencer marketing,gaming merchandise,affiliate sponsorships,streamer culture,brand collaborations",
       "cached_at": "2025-08-24T23:43:38.731071",
       "channel_title": "Jynxzi"
+    },
+    {
+      "platform": "YouTube",
+      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "post_id": "sxeCxg1b-5k",
+      "title": "What will each of these lines log to the console and why? Go!",
+      "url": "https://www.youtube.com/watch?v=sxeCxg1b-5k",
+      "published_at": "2025-08-25T13:01:36Z",
+      "summary": "This YouTube video focuses on a JavaScript tutorial explaining the plus operator's behavior with different data types.  From a gaming perspective, this indirectly highlights the importance of programming skills in game development. Understanding data type handling is crucial for creating robust and ",
+      "sentiment": "neutral",
+      "trends": "Game development education,Programming skills in gaming,JavaScript in game development,Technical skills gap in gaming industry,Educational YouTube content",
+      "cached_at": "2025-08-25T23:49:32.967659",
+      "channel_title": "Google for Developers"
+    },
+    {
+      "platform": "YouTube",
+      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "post_id": "W7ZzuiX3Cc4",
+      "title": "Kaggle Game Arena, AI tools in Firebase Studio, and more! - Google Developer News August 2025",
+      "url": "https://www.youtube.com/watch?v=W7ZzuiX3Cc4",
+      "published_at": "2025-08-21T16:00:51Z",
+      "summary": "This Google Developer News segment highlights the integration of AI in game development and competition.  The Kaggle Game Arena showcases AI models from Google DeepMind competing head-to-head, pushing the boundaries of AI reasoning.  Furthermore, advancements in Firebase Studio, leveraging Gemini's ",
+      "sentiment": "positive",
+      "trends": "AI in game development,AI-powered game engines,Cloud-based game development,Generative AI in game design,Real-time AI competition",
+      "cached_at": "2025-08-25T23:49:40.017410",
+      "channel_title": "Google for Developers"
+    },
+    {
+      "platform": "YouTube",
+      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "post_id": "E0hrcDO3Noc",
+      "title": "Introducing Opal",
+      "url": "https://www.youtube.com/watch?v=E0hrcDO3Noc",
+      "published_at": "2025-08-18T19:17:20Z",
+      "summary": "This YouTube video introduces Opal, a no-code tool from Google AI that enables users to create multi-step mini-apps using natural language prompts.  This is relevant to gaming in its potential to facilitate the creation of user-generated content, modding tools, or even simpler games without coding k",
+      "sentiment": "positive",
+      "trends": "no-code development,AI-powered tools,user-generated content,indie game development,accessibility in game creation",
+      "cached_at": "2025-08-25T23:49:49.104698",
+      "channel_title": "Google for Developers"
+    },
+    {
+      "platform": "YouTube",
+      "channel_id": "UCBJycsmduvYEL83R_U4JriQ",
+      "post_id": "269OsrzG3Ew",
+      "title": "Google Pixel 10/Pro/Fold Impressions: Magnets!",
+      "url": "https://www.youtube.com/watch?v=269OsrzG3Ew",
+      "published_at": "2025-08-20T16:01:17Z",
+      "summary": "This YouTube video focuses on a tech product review of the Google Pixel 10 series smartphones.  From a gaming perspective, the video's relevance is indirect, highlighting the phone's potential as a mobile gaming platform due to its flagship specs.  However, the video doesn't directly address gaming ",
+      "sentiment": "neutral",
+      "trends": "Mobile gaming hardware,Smartphone technology advancements,Tech product reviews and sponsorships,Premium mobile phone market",
+      "cached_at": "2025-08-25T23:49:52.429276",
+      "channel_title": "Marques Brownlee"
     }
   ],
   "meta": {
-    "last_run": "2025-08-24T23:43:38.731696",
-    "total_posts": 3,
-    "last_updated": "2025-08-24T23:43:38.731917"
+    "last_run": "2025-08-25T23:50:06.226621",
+    "total_posts": 7,
+    "last_updated": "2025-08-25T23:50:06.226791"
   }
 }
